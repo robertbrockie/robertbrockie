@@ -1,5 +1,5 @@
 ### 👋 
-I'm Robert Brockie a Web Developer in Montreal, I'm currently `employed` however if you have an interesting project that you think I might be able to help with please feel free to reach out, I read all my email and reply when I can.
+I'm Robert Brockie a Web Developer in Montreal, I'm currently `employed`. If you have an interesting project that you think I might be able to help with please feel free to reach out, I read all my email and reply when I can.
 
 ### 💻
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertbrockie&layout=compact&langs_count=10)](https://github.com/robertbrockie)
