@@ -7,7 +7,7 @@ Hi! My name is Robert Brockie and I'm a Web Developer in Montreal, QC. Over the 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertbrockie&layout=compact&langs_count=10)](https://github.com/robertbrockie)
 
 ### 👨‍💻
-- 🌱 I’m currently learning about Typescript, Elastic Search, and teaching my oldest son to skate ⛸️.
+- 🌱 I’m currently learning about Typescript, Elastic Search, and teaching my youngest son to skate ride a bike 🚲.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/robertbrockie/) || [Twitter](https://www.twitter.com/robertbrockie/) || [robertbrockie@gmail.com](mailto:robertbrockie+github@gmail.com)
 - ⚡ Fun facts: I like to [read 📚](https://www.coolkidsreadbooks.com/), [run 🏃‍♂️](https://www.15x365.com), and [play Mega Man 2 🎮](https://mm2.robertbrockie.com)
 
