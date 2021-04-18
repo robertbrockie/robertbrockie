@@ -1,4 +1,4 @@
-### Robert Brockie
+### Robert J Brockie
 `Release alittle, alot.`
 
 ### 👋 
