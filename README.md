@@ -4,7 +4,7 @@
 Hi! My name is Robert Brockie, I'm a Web Developer living in Montreal, QC. Over the past 15 years I've built web applications up and down the stack, professionally and in my free time. I love building new products and solving problems, if you have an interesting project that you think I might be able to help with please feel free to reach out, I read all my email and reply when I can.
 
 ### 💻
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertbrockie&layout=compact&langs_count=10)](https://github.com/robertbrockie)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertbrockie&theme=dark&langs_count=10)](https://github.com/robertbrockie)
 
 `Release alittle, alot.`
 
