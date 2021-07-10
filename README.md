@@ -4,8 +4,6 @@
 Hi! My name is Robert Brockie, I'm a Web Developer living in Montreal, QC. Over the past 15 years I've built web applications up and down the stack, professionally and in my free time. I love building new products and solving problems, if you have an interesting project that you think I might be able to help with please feel free to reach out, I read all my email and reply when I can.
 
 ### 💻
-![Robert Brockie's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertbrockie&theme=dark&show_icons=true)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertbrockie&show_icons=true&theme=dark&langs_count=10)](https://github.com/robertbrockie)
 
@@ -13,6 +11,8 @@ Hi! My name is Robert Brockie, I'm a Web Developer living in Montreal, QC. Over 
 - 🌱 I’m currently learning about Typescript, Elastic Search, and teaching my youngest son to ride a bike 🚲.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/robertbrockie/) || [robertbrockie@gmail.com](mailto:robertbrockie+github@gmail.com)
 - ⚡ Fun facts: I like to [read 📚](https://www.coolkidsreadbooks.com/), [run 🏃‍♂️](https://www.15x365.com), and [play Mega Man 2 🎮](https://mm2.robertbrockie.com)
+
+![Robert Brockie's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertbrockie&theme=dark&show_icons=true)
 
 <!--
 **robertbrockie/robertbrockie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
