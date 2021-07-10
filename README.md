@@ -14,8 +14,6 @@ Hi! My name is Robert Brockie, I'm a Web Developer living in Montreal, QC. Over 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/robertbrockie/) || [robertbrockie@gmail.com](mailto:robertbrockie+github@gmail.com)
 - ⚡ Fun facts: I like to [read 📚](https://www.coolkidsreadbooks.com/), [run 🏃‍♂️](https://www.15x365.com), and [play Mega Man 2 🎮](https://mm2.robertbrockie.com)
 
-`Release alittle, alot.`
-
 <!--
 **robertbrockie/robertbrockie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
