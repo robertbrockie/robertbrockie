@@ -10,9 +10,10 @@ Hi! My name is Robert Brockie, I'm a Web Developer living in Montreal, QC. Over 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/robertbrockie/) || [robertbrockie@gmail.com](mailto:robertbrockie+github@gmail.com)
 - ⚡ Fun facts: I like to [read 📚](https://www.coolkidsreadbooks.com/), [run 🏃‍♂️](https://www.15x365.com), and [play Mega Man 2 🎮](https://mm2.robertbrockie.com)
 
-![Robert Brockie's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertbrockie&theme=dark&show_icons=true)
+
 
 <!--
+![Robert Brockie's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertbrockie&theme=dark&show_icons=true)
 **robertbrockie/robertbrockie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
