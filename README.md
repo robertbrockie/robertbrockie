@@ -8,7 +8,7 @@ Hi! My name is Robert Brockie, I'm a Web Developer living in Montreal, QC. Over 
 ### 👨‍💻
 - 🌱 I’m currently learning about Rust, React Native, and trying to join 💪 [The 1000lbs Club](https://www.menshealth.com/fitness/a37989261/1000-pound-club/) 💪
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/robertbrockie/) || [robertbrockie@gmail.com](mailto:robertbrockie+github@gmail.com)
-- ⚡ Fun facts: I like to [read 📚](https://www.coolkidsreadbooks.com/), [run 🏃‍♂️](https://www.15x365.com), and [play Mega Man 2 🎮](https://mm2.robertbrockie.com)
+- ⚡ Fun facts: I like to [read 📚](https://www.coolkidsreadbooks.com/), [bodybuild 💪](https://robertbrockie.github.io/), and [play Mega Man 2 🎮](https://mm2.robertbrockie.com)
 
 <!--
 ![Robert Brockie's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertbrockie&theme=dark&show_icons=true)
