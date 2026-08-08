@@ -2,10 +2,6 @@
 
 A Web Developer living in Montreal. Over the past 20 years I've built web applications up and down the stack, professionally and in my free time. I love building new products and solving problems.
 
-### 💻 Code
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertbrockie&show_icons=true&theme=dark&langs_count=10)](https://github.com/robertbrockie)
-While my recent work focuses heavily on React and modern web ecosystems, my career spans a wide variety of technologies including PHP, Java, Scala, and Python.
-
 ### 👨‍💻 What I'm Up To
 - 🏢 **Currently working on:** Leading Team 🇨🇦 Dev at FlightHub ✈️
 - 🌱 **Currently learning:** Rust, React Native, and ATProtocol.
