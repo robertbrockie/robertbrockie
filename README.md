@@ -3,7 +3,7 @@
 A Web Developer living in Montreal. Over the past 20 years I've built web applications up and down the stack, professionally and in my free time. I love building new products and solving problems.
 
 ### 👨‍💻 What I'm Up To
-- 🏢 **Currently working on:** Leading Team 🇨🇦 Dev at FlightHub ✈️
+- 🏢 **Currently working on:** Leading Team 🇨🇦 Development at FlightHub ✈️
 - 🌱 **Currently learning:** Rust, React Native, and ATProtocol.
 
 ### ⚡ Out of Office
