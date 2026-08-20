@@ -13,4 +13,4 @@ When I'm away from the keyboard, you can usually find me:
 - 🎮 [Mega Man 2](https://mm2.robertbrockie.com)
 
 If you have an interesting project you think I might be able to help with, please feel free to reach out. I read all my email and reply when I can.
-- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/robertbrockie/) || [robertbrockie@gmail.com](mailto:robertbrockie+github@gmail.com)
+- 📫 [robertbrockie@gmail.com](mailto:robertbrockie+github@gmail.com)
