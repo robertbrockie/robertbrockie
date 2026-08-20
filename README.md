@@ -9,8 +9,8 @@ A Web Developer living in Montreal. Over the past 20 years I've built web applic
 ### ⚡ Out of Office
 When I'm away from the keyboard, you can usually find me:
 - 💪 [Bodybuilding](https://robertbrockie.github.io/) 
-- 📚 Reading (check out [what I'm reading](https://www.coolkidsreadbooks.com/))
-- 🎮 Playing [Mega Man 2](https://mm2.robertbrockie.com)
+- 📚 [Reading](https://www.coolkidsreadbooks.com/))
+- 🎮 [Mega Man 2](https://mm2.robertbrockie.com)
 
 If you have an interesting project you think I might be able to help with, please feel free to reach out. I read all my email and reply when I can.
 - 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/robertbrockie/) || [robertbrockie@gmail.com](mailto:robertbrockie+github@gmail.com)
